@@ -1,7 +1,9 @@
 # DFS-BFS
 ## implemented methods
 - depth first search dfs()
+  - tells if there is a cycle in the graph
 - breadth first search bfs()
+  - tells how far away each "node" is from the root
 ### how to run
 ```
 (venv) C:\school\cs320\graphsPA2>dfbf.py [input graph you'd like to use] [root node you'd like to use] [debug mode (optional)
